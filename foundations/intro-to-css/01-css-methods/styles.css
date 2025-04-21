@@ -1,0 +1,8 @@
+div {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    /* transform: scaleX(1.2); */
+    font-size: 32px;
+}
